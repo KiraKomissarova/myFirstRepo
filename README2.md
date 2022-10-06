@@ -1,2 +1,1 @@
 "# myFirstRepo" 
-lol kek cheburek
